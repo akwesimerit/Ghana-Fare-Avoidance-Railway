@@ -1,2 +1,3 @@
-# AMA-Transport-Choice-Congestion
-Exploring the 2023 HTS dataset to analyze transport mode choices (e.g., trotros) and factors in AMA, linking to road congestion. Supports my thesis on railway modernization’s impact on traffic. Includes EDA and advanced analyses for public policy insights.
+# Ghana-Fare-Avoidance-Railway
+Exploring WVS Wave 6 (Ghana) to analyze fare avoidance attitudes and their link to traffic congestion across Ghana. Supports my thesis on public perceptions of railway modernization to ease congestion. Includes EDA and advanced analyses for policy insights. (234 characters)
+
