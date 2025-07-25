@@ -1,6 +1,3 @@
-Perfect. Here's your **updated `README.md` draft**, now fully aligned with your final topic:
-
----
 
 # What Demographic and Attitudinal Factors Influence the Justification of Transportation Fare Evasion in Ghana?
 
@@ -74,6 +71,3 @@ Understanding who justifies fare evasion and why can help policymakers:
 
 This is a personal project by **Emmanuel**, built on open data and hosted for transparency, learning, and policy engagement. It extends a previous mini-project on public willingness to pay for transport, focusing now on rule-breaking behavior and its transport implications.
 
----
-
-Would you like this saved and uploaded as a `.md` file for GitHub or also converted to Word?
